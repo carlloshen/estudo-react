@@ -5,10 +5,10 @@ import Times from "../Times/Times";
 const Card = (props) => {
   const grupo = props.grupo;
   const team = ([
-    {nome:"Brasil", estado:"CE"},
-    {nome:"Suica", estado:"CE"},
-    {nome:"Camaroes", estado:"CE"},
-    {nome:"Servia", estado:"CE"},
+    {nome:"Brasil"},
+    {nome:"Suica"},
+    {nome:"Camaroes"},
+    {nome:"Servia"},
   ]);
 
     
