@@ -1,0 +1,72 @@
+.time{
+    width: 100%;
+    height: 40px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.time-Brasil{
+    background-image: url("https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png"); 
+    background-repeat: no-repeat;
+    background-position: 0rem;
+    width: 100%;
+    height: 40px;
+}
+
+.time-Brasil:before{
+    color: #800000;
+    content: "Brasil";
+    padding-left: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.time-Suica{
+    background-image: url("https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_48x48.png"); 
+    background-repeat: no-repeat;
+    background-position: 0rem;
+    width: 100%;
+    height: 40px;
+}
+
+.time-Suica:before{
+    color: #800000;
+    content: "Suica";
+    padding-left: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.time-Camaroes{
+    background-image: url("https://ssl.gstatic.com/onebox/media/sports/logos/fmHyTSbJ-cYbY6WJzvqaZQ_48x48.png"); 
+    background-repeat: no-repeat;
+    background-position: 0rem;
+    width: 100%;
+    height: 40px;
+}
+
+.time-Camaroes:before{
+    color: #800000;
+    content: "Camarões";
+    padding-left: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.time-Servia{
+    background-image: url("https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_48x48.png"); 
+    background-repeat: no-repeat;
+    background-position: 0rem;
+    width: 100%;
+    height: 40px;
+}
+
+.time-Servia:before{
+    color: #800000;
+    content: "Sérvia";
+    padding-left: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+}
